@@ -1,5 +1,5 @@
 {
-  "name": "justh.it",
+  "name": "BlueBot",
   "version": "1.0.0",
   "description": "",
   "main": "src/bot.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Muddl/justh.it.git"
+    "url": "git+https://github.com/Muddl/BlueBot.git"
   },
   "author": "Wade Kaiser",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Muddl/justh.it/issues"
+    "url": "https://github.com/Muddl/BlueBot/issues"
   },
-  "homepage": "https://github.com/Muddl/justh.it#readme",
+  "homepage": "https://github.com/Muddl/BlueBot#readme",
   "dependencies": {
     "discord.js": "^12.4.1",
     "dotenv": "^8.2.0"
